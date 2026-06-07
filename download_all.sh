@@ -1,6 +1,5 @@
 #!/bin/bash
 
-pref_HM="HM"
 pref_HmIP="HmIP"
 pref_HmIPW="HmIPW"
 pref_ELV="ELV"
@@ -109,7 +108,7 @@ for f in {$pref_HM,$pref_HmIP,$pref_HmIPW,$pref_ELV}/*gz; do
   # parse changelog
   SHA256SUM=$(sha256sum ${f} | cut -d' ' -f1)
   fb=$(basename ${f})
-  echo "## [${fb}](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/${pref}/${fb})" >./docs/changelogs/changelog_${fb%%.*}.md
+  echo "## [${fb}](https://raw.githubusercontent.com/HomematicIP-HCU/HCUDeviceFirmware/master/${pref}/${fb})" >./docs/changelogs/changelog_${fb%%.*}.md
   echo -n "Required CCU firmware version: &#8805; ${fwccu3minversion}" >>./docs/changelogs/changelog_${fb%%.*}.md
   if [ -n "${fwccu2minversion}" ]; then
     echo -n " / ${fwccu2minversion}" >>./docs/changelogs/changelog_${fb%%.*}.md
