@@ -1,3 +1,4 @@
+name: Update Device Firmware Release Notes
 on:
   #push:
   schedule:
