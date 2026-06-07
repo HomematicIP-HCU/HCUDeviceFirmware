@@ -1,4 +1,4 @@
-# HomeMatic / Homematic IP Device Firmware Archive
+# Homematic IP Device Firmware Archive
 
 https://openccu.github.io/HMDeviceFirmware/
 
