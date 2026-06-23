@@ -1,6 +1,6 @@
 ## HomeMatic / Homematic IP Device Firmware Archive
 
-_last generated: 23.06.2026, 13:26:01 UTC_ ([GitHub](https://github.com/ediminator/homematicip-hcu))
+_last generated: 23.06.2026, 17:04:53 UTC_ ([GitHub](https://github.com/ediminator/homematicip-hcu))
 
 <details open><summary>HmIP</summary>
 
@@ -48,7 +48,6 @@ _last generated: 23.06.2026, 13:26:01 UTC_ ([GitHub](https://github.com/ediminat
 | HmIP-FALMOT-C8 | [V1.6.12](changelogs/changelog_HmIP-FALMOT-C8_update_V1_6_12_250527.md) | 3.83.1 | [HmIP-FALMOT-C8_update_V1_6_12_250527.tgz](https://raw.githubusercontent.com/ediminator/homematicip-hcu/main/HmIP/HmIP-FALMOT-C8_update_V1_6_12_250527.tgz) | `2c63da0586e45c30b5ebf87983e54bb99f1628e66d75bf22d1a6b9791d732af9` |
 | HmIP-FBL | [V1.10.16](changelogs/changelog_HmIP-FBL_update_V1_10_16_231115.md) | 3.69.5 | [HmIP-FBL_update_V1_10_16_231115.tgz](https://raw.githubusercontent.com/ediminator/homematicip-hcu/main/HmIP/HmIP-FBL_update_V1_10_16_231115.tgz) | `97fecd35466037fb4fd7aeb77fce0e245769f1d4f15ca5922e05b45f4a1d4ecb` |
 | HmIP-FCI1 | [V1.0.14](changelogs/changelog_HmIP-FCI1_update_V1_0_14_181114.md) | 3.41.7 / 2.41.5 | [HmIP-FCI1_update_V1_0_14_181114.tgz](https://raw.githubusercontent.com/ediminator/homematicip-hcu/main/HmIP/HmIP-FCI1_update_V1_0_14_181114.tgz) | `bfd7f9ff6ba870172909c49c82ee14064a5ac6904e0fd6f50c4a6cda2bd78b6d` |
-| HmIP-FCI6 | [V1.0.18](changelogs/changelog_HmIP-FCI6_update_V1_0_18_221010.md) | 3.41.7 / 2.41.5 | [HmIP-FCI6_update_V1_0_18_221010.tgz](https://raw.githubusercontent.com/ediminator/homematicip-hcu/main/HmIP/HmIP-FCI6_update_V1_0_18_221010.tgz) | `33bd6b241876fb2a354f4d0ce8b89fd63a6b4c7c95b0abc9a270c4cbf8613684` |
 | HmIP-FDT | [V2.2.4](changelogs/changelog_HmIP-FDT_update_V2_2_4_231123.md) | 3.73.9 | [HmIP-FDT_update_V2_2_4_231123.tgz](https://raw.githubusercontent.com/ediminator/homematicip-hcu/main/HmIP/HmIP-FDT_update_V2_2_4_231123.tgz) | `5921c61fc0e1a629b5d7eb557c6dd8b42000d4014f263a762a720a32becec18b` |
 | HmIP-FROLL | [V1.10.16](changelogs/changelog_HmIP-FROLL_update_V1_10_16_230616.md) | 3.69.5 | [HmIP-FROLL_update_V1_10_16_230616.tgz](https://raw.githubusercontent.com/ediminator/homematicip-hcu/main/HmIP/HmIP-FROLL_update_V1_10_16_230616.tgz) | `4c2ae03e84add793926e392ffd470ece72cb813925972ef5378e9257f11afa13` |
 | HmIP-FSI16 | [V3.0.6](changelogs/changelog_HmIP-FSI16_update_V3_0_6_220504.md) | 3.61.7 / 2.61.7 | [HmIP-FSI16_update_V3_0_6_220504.tgz](https://raw.githubusercontent.com/ediminator/homematicip-hcu/main/HmIP/HmIP-FSI16_update_V3_0_6_220504.tgz) | `44439929da91841bf7b0e166974476eec659852c774912d84ddca9edfe25b229` |
