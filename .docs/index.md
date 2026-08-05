@@ -1,6 +1,6 @@
 ## HomeMatic / Homematic IP Device Firmware Archive
 
-_last generated: 04.08.2026, 20:12:48 UTC_ ([GitHub](https://github.com/ediminator/homematicip-hcu))
+_last generated: 05.08.2026, 12:24:18 UTC_ ([GitHub](https://github.com/ediminator/homematicip-hcu))
 
 <details open><summary>HmIP</summary>
 
@@ -34,7 +34,7 @@ _last generated: 04.08.2026, 20:12:48 UTC_ ([GitHub](https://github.com/ediminat
 | HmIP-DLS | [V1.4.0](changelogs/changelog_HmIP-DLS_update_V1_4_0_220801.md) | 3.59.5 / 2.59.5 | [HmIP-DLS_update_V1_4_0_220801.tgz](https://raw.githubusercontent.com/ediminator/homematicip-hcu/main/HmIP/HmIP-DLS_update_V1_4_0_220801.tgz) | `74cd2bc144f1c8970137125a4f976aa3de03caebe0636ebb47802a352f42ba83` |
 | HmIP-DRBLI4 | [V1.10.16](changelogs/changelog_HmIP-DRBLI4_update_V1_10_16_230626.md) | 3.69.5 | [HmIP-DRBLI4_update_V1_10_16_230626.tgz](https://raw.githubusercontent.com/ediminator/homematicip-hcu/main/HmIP/HmIP-DRBLI4_update_V1_10_16_230626.tgz) | `52fed059ea0cd92e73f07d8d123580c8ddc740c3fac68ab5b63479d4dced29e9` |
 | HmIP-DRDI3 | [V1.4.8](changelogs/changelog_HmIP-DRDI3_update_V1_4_8_220323.md) | 3.73.9 | [HmIP-DRDI3_update_V1_4_8_220323.tgz](https://raw.githubusercontent.com/ediminator/homematicip-hcu/main/HmIP/HmIP-DRDI3_update_V1_4_8_220323.tgz) | `710ddf2807f28f3ac7128b897de7010de8c403ea2a758b0f435910946ae3b23d` |
-| HmIP-DRG-DALI | [V1.6.4](changelogs/changelog_HmIP-DRG-DALI_update_V1_6_4_251009.md) | 3.69.7 | [HmIP-DRG-DALI_update_V1_6_4_251009.tgz](https://raw.githubusercontent.com/ediminator/homematicip-hcu/main/HmIP/HmIP-DRG-DALI_update_V1_6_4_251009.tgz) | `875a384c437cfde33abcf6baae765e02c28b5121c098ab2b10d93a2f4b2cb169` |
+| HmIP-DRG-DALI | [V1.8.4](changelogs/changelog_HmIP-DRG-DALI_update_V1_8_4_260616.md) | 3.89.8 | [HmIP-DRG-DALI_update_V1_8_4_260616.tgz](https://raw.githubusercontent.com/ediminator/homematicip-hcu/main/HmIP/HmIP-DRG-DALI_update_V1_8_4_260616.tgz) | `101b1937536fec0fb7b2ebd325fe32a36c825b7922004a5d54ee4e9f5cc8a64e` |
 | HmIP-DRSI1 | [V1.6.2](changelogs/changelog_HmIP-DRSI1_update_V1_6_2_221207.md) | 3.53.27 / 2.53.27 | [HmIP-DRSI1_update_V1_6_2_221207.tgz](https://raw.githubusercontent.com/ediminator/homematicip-hcu/main/HmIP/HmIP-DRSI1_update_V1_6_2_221207.tgz) | `ab91e50f9f25f971d5a7ee0f778bbdfdd6e8757c6440c066be2eaa34c8fbcec3` |
 | HmIP-DRSI4 | [V3.2.0](changelogs/changelog_HmIP-DRSI4_update_V3_2_0_250522.md) | 3.49.14 / 2.49.14 | [HmIP-DRSI4_update_V3_2_0_250522.tgz](https://raw.githubusercontent.com/ediminator/homematicip-hcu/main/HmIP/HmIP-DRSI4_update_V3_2_0_250522.tgz) | `32f878124d5d4001c1cdc096064c50b86c79c324bc3c1574889585203c2fa89c` |
 | HmIP-DSD-PCB | [V1.0.6](changelogs/changelog_HmIP-DSD-PCB_update_V1_0_6_190927.md) | 3.49.14 / 2.49.14 | [HmIP-DSD-PCB_update_V1_0_6_190927.tgz](https://raw.githubusercontent.com/ediminator/homematicip-hcu/main/HmIP/HmIP-DSD-PCB_update_V1_0_6_190927.tgz) | `9028eb8803f5faf08f219a6cdfdd99cdb91f841121cf5617a06f2741283b11b7` |
