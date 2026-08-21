@@ -1,6 +1,6 @@
 ## HomeMatic / Homematic IP Device Firmware Archive
 
-_last generated: 20.08.2026, 19:14:03 UTC_ ([GitHub](https://github.com/ediminator/homematicip-hcu))
+_last generated: 21.08.2026, 10:59:55 UTC_ ([GitHub](https://github.com/ediminator/homematicip-hcu))
 
 <details open><summary>HmIP</summary>
 
@@ -76,7 +76,6 @@ _last generated: 20.08.2026, 19:14:03 UTC_ ([GitHub](https://github.com/ediminat
 | HmIP-PCBS | [V2.10.2](changelogs/changelog_HmIP-PCBS_update_V2_10_2_171009.md) | 3.47.10 / 2.47.10 | [HmIP-PCBS_update_V2_10_2_171009.tgz](https://raw.githubusercontent.com/ediminator/homematicip-hcu/main/HmIP/HmIP-PCBS_update_V2_10_2_171009.tgz) | `eab8e2f7ec94505f60f9d84986f182cb40f49808837dfb53891b92f513df73bb` |
 | HmIP-PCBS2 | [V1.10.10](changelogs/changelog_HmIP-PCBS2_update_V1_10_10_180601.md) | 3.45.5 / 2.45.6 | [HmIP-PCBS2_update_V1_10_10_180601.tgz](https://raw.githubusercontent.com/ediminator/homematicip-hcu/main/HmIP/HmIP-PCBS2_update_V1_10_10_180601.tgz) | `e7fd35671aa9697a93c105f6327cc558fea30bc24f43872c23e194f38864273b` |
 | HmIP-PDT | [V2.2.4](changelogs/changelog_HmIP-PDT_update_V2_2_4_231123.md) | 3.73.9 | [HmIP-PDT_update_V2_2_4_231123.tgz](https://raw.githubusercontent.com/ediminator/homematicip-hcu/main/HmIP/HmIP-PDT_update_V2_2_4_231123.tgz) | `054d0009eb07e5803ce8f86794f7d73b990de33e5a9a74bdc337ea1cad9aa1f9` |
-| HmIP-PDT-A | [V2.2.4](changelogs/changelog_HmIP-PDT-A_update_V2_2_4_250220.md) | 3.81.1 | [HmIP-PDT-A_update_V2_2_4_250220.tgz](https://raw.githubusercontent.com/ediminator/homematicip-hcu/main/HmIP/HmIP-PDT-A_update_V2_2_4_250220.tgz) | `cdb09b3e6ffff92d368ffd525aed966a1698417e73b7bf6feebe9a4cae7cb4c2` |
 | HmIP-PDT-CH | [V2.2.4](changelogs/changelog_HmIP-PDT-CH_update_V2_2_4_231123.md) | 3.73.9 | [HmIP-PDT-CH_update_V2_2_4_231123.tgz](https://raw.githubusercontent.com/ediminator/homematicip-hcu/main/HmIP/HmIP-PDT-CH_update_V2_2_4_231123.tgz) | `748acf6a6e29da7c2bfb5886c12faac6ac5251dfc48ea850c70e757b3d97607b` |
 | HmIP-PDT-PE | [V2.2.4](changelogs/changelog_HmIP-PDT-PE_update_V2_2_4_231123.md) | 3.73.9 | [HmIP-PDT-PE_update_V2_2_4_231123.tgz](https://raw.githubusercontent.com/ediminator/homematicip-hcu/main/HmIP/HmIP-PDT-PE_update_V2_2_4_231123.tgz) | `b035c611972785f4962ce8008bade69c923eebe24ce35d2bd907fcf033ce45f0` |
 | HmIP-PDT-UK | [V2.2.4](changelogs/changelog_HmIP-PDT-UK_update_V2_2_4_231123.md) | 3.73.9 | [HmIP-PDT-UK_update_V2_2_4_231123.tgz](https://raw.githubusercontent.com/ediminator/homematicip-hcu/main/HmIP/HmIP-PDT-UK_update_V2_2_4_231123.tgz) | `bbd7f42100fffece86c39c3562c943fc0ad6876bde7ec265b3919ccfc5bb3f8e` |
