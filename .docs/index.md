@@ -1,6 +1,6 @@
 ## HomeMatic / Homematic IP Device Firmware Archive
 
-_last generated: 07.09.2026, 21:45:47 UTC_ ([GitHub](https://github.com/ediminator/homematicip-hcu))
+_last generated: 08.09.2026, 14:44:39 UTC_ ([GitHub](https://github.com/ediminator/homematicip-hcu))
 
 <details open><summary>HmIP</summary>
 
@@ -59,8 +59,8 @@ _last generated: 07.09.2026, 21:45:47 UTC_ ([GitHub](https://github.com/ediminat
 | HmIP-GU10 | [V1.0.28](changelogs/changelog_HmIP-GU10_update_V1_0_28_260305.md) | 3.0.0 | [HmIP-GU10_update_V1_0_28_260305.tgz](https://raw.githubusercontent.com/ediminator/homematicip-hcu/main/HmIP/HmIP-GU10_update_V1_0_28_260305.tgz) | `33ed4a8685271cd52a8befed033e903a729d82415028f1613baa9413b16f4c36` |
 | HmIP-HAP | [V3.0.18](changelogs/changelog_HMIP-HAP_3_0_18_230929.md) | 3.73.9 | [HMIP-HAP_3_0_18_230929.tgz](https://raw.githubusercontent.com/ediminator/homematicip-hcu/main/HmIP/HMIP-HAP_3_0_18_230929.tgz) | `95a994f191dd537809820d31f049ecf12699b76fc6dcb1984934ba9fd447bb34` |
 | HmIP-HAP-JS1 | [V3.0.18](changelogs/changelog_HMIP-HAP-JS1_3_0_18_230929.md) | 3.73.9 | [HMIP-HAP-JS1_3_0_18_230929.tgz](https://raw.githubusercontent.com/ediminator/homematicip-hcu/main/HmIP/HMIP-HAP-JS1_3_0_18_230929.tgz) | `615f5a3b9deed41fade9cdc8fddd924aa36c9d517f2f864844a25c99949c9287` |
-| HmIP-HAP2 | [V1.0.44](changelogs/changelog_HmIP-HAP2_1_0_44_250924.md) | 3.83.6 | [HmIP-HAP2_1_0_44_250924.tgz](https://raw.githubusercontent.com/ediminator/homematicip-hcu/main/HmIP/HmIP-HAP2_1_0_44_250924.tgz) | `b467854fc56cbd114c3badf8ee0168684deaea64ca43ac1e016c5b3e6ba68120` |
-| HmIP-HAP2-A | [V1.0.44](changelogs/changelog_HmIP-HAP2-A_1_0_44_250924.md) | 3.83.6 | [HmIP-HAP2-A_1_0_44_250924.tgz](https://raw.githubusercontent.com/ediminator/homematicip-hcu/main/HmIP/HmIP-HAP2-A_1_0_44_250924.tgz) | `1ca1a6eb85dc79ea86a6627f2fdd0ca4c8cc4f7f27499323ee18f3afab555f5f` |
+| HmIP-HAP2 | [V1.0.48](changelogs/changelog_HmIP-HAP2_1_0_48_251202.md) | 3.83.6 | [HmIP-HAP2_1_0_48_251202.tgz](https://raw.githubusercontent.com/ediminator/homematicip-hcu/main/HmIP/HmIP-HAP2_1_0_48_251202.tgz) | `037c4cbf9ae4043d50ce42c45748daccafa0706a1b6a408498b7b1a08d7783aa` |
+| HmIP-HAP2-A | [V1.0.48](changelogs/changelog_HmIP-HAP2-A_1_0_48_251202.md) | 3.83.6 | [HmIP-HAP2-A_1_0_48_251202.tgz](https://raw.githubusercontent.com/ediminator/homematicip-hcu/main/HmIP/HmIP-HAP2-A_1_0_48_251202.tgz) | `551a0254e655ab8c2ca31c727836933eb9793cc24860c346fec32e13cc8eb325` |
 | HmIP-KRC4 | [V2.6.2](changelogs/changelog_HmIP-KRC4_update_V2_6_2_240925.md) | 3.79.3 | [HmIP-KRC4_update_V2_6_2_240925.tgz](https://raw.githubusercontent.com/ediminator/homematicip-hcu/main/HmIP/HmIP-KRC4_update_V2_6_2_240925.tgz) | `aa0c2125fd0e5b022c5b9ba7b971b3ed1646878a20d2b57b6865d6127a674901` |
 | HmIP-KRC4-2 | [V2.6.2](changelogs/changelog_HmIP-KRC4-2_update_V2_6_2_240925.md) | 3.81.3 | [HmIP-KRC4-2_update_V2_6_2_240925.tgz](https://raw.githubusercontent.com/ediminator/homematicip-hcu/main/HmIP/HmIP-KRC4-2_update_V2_6_2_240925.tgz) | `148634add0f71a7f6aaeaa06d44e9093dc0eb111b7be126c157ce84eb9daf606` |
 | HmIP-KRCA | [V2.6.2](changelogs/changelog_HmIP-KRCA_update_V2_6_2_240925.md) | 3.79.3 | [HmIP-KRCA_update_V2_6_2_240925.tgz](https://raw.githubusercontent.com/ediminator/homematicip-hcu/main/HmIP/HmIP-KRCA_update_V2_6_2_240925.tgz) | `b0adb884b890e32256da04fb1aa093b372e1f26eab0079fa61ac009207f64b30` |
