@@ -1,6 +1,6 @@
 ## HomeMatic / Homematic IP Device Firmware Archive
 
-_last generated: 16.09.2026, 21:38:14 UTC_ ([GitHub](https://github.com/ediminator/homematicip-hcu))
+_last generated: 17.09.2026, 15:09:35 UTC_ ([GitHub](https://github.com/ediminator/homematicip-hcu))
 
 <details open><summary>HmIP</summary>
 
