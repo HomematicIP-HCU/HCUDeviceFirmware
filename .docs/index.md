@@ -1,6 +1,6 @@
 ## HomeMatic / Homematic IP Device Firmware Archive
 
-_last generated: 07.10.2026, 23:20:06 UTC_ ([GitHub](https://github.com/ediminator/homematicip-hcu))
+_last generated: 08.10.2026, 17:31:14 UTC_ ([GitHub](https://github.com/ediminator/homematicip-hcu))
 
 <details open><summary>HmIP</summary>
 
@@ -130,7 +130,7 @@ _last generated: 07.10.2026, 23:20:06 UTC_ ([GitHub](https://github.com/ediminat
 | HmIP-STI | [V1.0.0](changelogs/changelog_HmIP-STI_update_V1_0_0_210915.md) | 3.61.7 / 2.61.7 | [HmIP-STI_update_V1_0_0_210915.tgz](https://raw.githubusercontent.com/ediminator/homematicip-hcu/main/HmIP/HmIP-STI_update_V1_0_0_210915.tgz) | `dcd7dc2bddcafee6b9ba74c1634473a689ccdac11726784917d4062bad556be1` |
 | HmIP-STV | [V1.2.8](changelogs/changelog_HmIP-STV_update_V1_2_8_240913.md) | 3.79.3 | [HmIP-STV_update_V1_2_8_240913.tgz](https://raw.githubusercontent.com/ediminator/homematicip-hcu/main/HmIP/HmIP-STV_update_V1_2_8_240913.tgz) | `e7cd35528435e535a5988c74b9a706c833ec9ca286dd68e847c90868b2a7a336` |
 | HmIP-SWD | [V1.0.4](changelogs/changelog_HmIP-SWD_update_V1_0_004_221018.md) | 3.45.5 / 2.45.6 | [HmIP-SWD_update_V1_0_004_221018.tgz](https://raw.githubusercontent.com/ediminator/homematicip-hcu/main/HmIP/HmIP-SWD_update_V1_0_004_221018.tgz) | `c8ee04b0845c93e3942b46a88938176ae1cd2e026d5fdc14edc7d6fd91ac5798` |
-| HmIP-SWD-2 | [V2.0.14](changelogs/changelog_HmIP-SWD-2_update_V2_0_14_250306.md) | 3.75.6 | [HmIP-SWD-2_update_V2_0_14_250306.tgz](https://raw.githubusercontent.com/ediminator/homematicip-hcu/main/HmIP/HmIP-SWD-2_update_V2_0_14_250306.tgz) | `61b6578cd2e8257b5aacca2f0ab585119766e334c43f8ed439819cc6c1844a05` |
+| HmIP-SWD-2 | [V2.0.16](changelogs/changelog_HmIP-SWD-2_update_V2_0_16_250624.md) | 3.75.6 | [HmIP-SWD-2_update_V2_0_16_250624.tgz](https://raw.githubusercontent.com/ediminator/homematicip-hcu/main/HmIP/HmIP-SWD-2_update_V2_0_16_250624.tgz) | `7d96000b526d08dccb0ffcab2bbe94bc5ca464977988f3c0ee8530b71604cc06` |
 | HmIP-SWDM-2 | [V1.4.2](changelogs/changelog_HmIP-SWDM-2_update_V1_4_2_220210.md) | 3.63.1 | [HmIP-SWDM-2_update_V1_4_2_220210.tgz](https://raw.githubusercontent.com/ediminator/homematicip-hcu/main/HmIP/HmIP-SWDM-2_update_V1_4_2_220210.tgz) | `695e0b8091ea9c1e94626ba9d141adfa8f75cd9944c9353bef630f7670581d45` |
 | HmIP-SWDO | [V1.18.10](changelogs/changelog_HmIP-SWDO_update_V1_18_10_221021.md) | 3.37.8 / 2.33.3 | [HmIP-SWDO_update_V1_18_10_221021.tgz](https://raw.githubusercontent.com/ediminator/homematicip-hcu/main/HmIP/HmIP-SWDO_update_V1_18_10_221021.tgz) | `9cdaccda7d9b51559dbebf67a69c3b4237d2fe46952469e026717f0443d1ef17` |
 | HmIP-SWDO-2 | [V1.18.6](changelogs/changelog_HmIP-SWDO-2_update_V1_18_6_220912.md) | 3.65.11 | [HmIP-SWDO-2_update_V1_18_6_220912.tgz](https://raw.githubusercontent.com/ediminator/homematicip-hcu/main/HmIP/HmIP-SWDO-2_update_V1_18_6_220912.tgz) | `4a8f3e86ee34d14a07a9a1f68a33919f0eaaf376a9852d26d0b124d1839e8d9a` |
